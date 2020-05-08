@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Firebase - redirect on error
 // @namespace    davidkclark
-// @version      1.0
+// @version      1.1
+// @homepageURL  https://github.com/evilDave/tampermonkey-firebase
+// @downloadURL  https://github.com/evilDave/tampermonkey-firebase/blob/master/onErrorRedirect.js
 // @description  on Firebase error, redirect calls for user n to user n+1
 // @author       David Clark
 // @include      https://console.firebase.google.com/u/*
